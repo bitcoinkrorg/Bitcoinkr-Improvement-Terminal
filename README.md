@@ -8,6 +8,8 @@
 
 3.BIT를 통하여 비트코인에 관련된 글을 작성하실 수 있습니다.
 
+
+
 ## BIT 사용방법
 
 첫 방문이라면 [Wiki/위키/백과사전](https://github.com/bitcoinkrorg/Bitcoinkr-Improvement-Terminal/wiki) 를 통해 사용방법, 신청방법 등을 확인 하실 수 있습니다.
